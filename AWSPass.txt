@@ -1,0 +1,2 @@
+aws credentials : sandytwiliotest@gmail.com
+password : SandyAwsTwilio9989
